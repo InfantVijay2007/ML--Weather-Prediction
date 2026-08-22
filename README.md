@@ -4,6 +4,11 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 
 ## Problem Statement and Dataset
 
+To develop a Random Forest model for predicting daily temperature, PM2.5 pollution level, and energy consumption using environmental sensor data.
+
+Dataset:
+
+The dataset contains environmental sensor readings such as temperature, humidity, air quality, PM2.5 levels, and energy usage. These features are used to train the Random Forest model for accurate prediction of environmental conditions and energy consumption.(Problem Statement and Dataset)
 
 
 ## Equipments Required:
